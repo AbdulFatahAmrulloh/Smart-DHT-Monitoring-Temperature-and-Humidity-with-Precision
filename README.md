@@ -1,4 +1,3 @@
-Berikut deskripsi menarik dan profesional untuk repositori **Smart-DHT-Monitoring-Temperature-and-Humidity-with-Precision** di GitHub:  
 
 ---
 
